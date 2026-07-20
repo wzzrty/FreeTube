@@ -24,3 +24,4 @@
 Удачи вам! ⭐
 
 Спасибо каждому, кто поддерживает проект! ❤️
+Исходники: https://github.com/wzzrty/FreeTube/releases/tag/1.1
